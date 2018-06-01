@@ -17,6 +17,7 @@
 - [Cat and Mouse](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js)
 - [Circular Array Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/circularArrayRotation.js)
 - [Compare the Triplets](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
+- [Counting Valleys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js)
 - [Day of the Programmer](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/day-of-the-programmer.js)
 - [Diagonal Difference](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/diagonalDifference.js)
 - [Grading Students](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js)
