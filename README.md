@@ -19,6 +19,7 @@
 - [Compare the Triplets](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
 - [Counting Valleys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js)
 - [Day of the Programmer](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/day-of-the-programmer.js)
+- [Designer PDF Viewer](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/designer_PDF_viewer.js)
 - [Diagonal Difference](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/diagonalDifference.js)
 - [Grading Students](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js)
 - [Kangaroo](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/kangaroo.js)
