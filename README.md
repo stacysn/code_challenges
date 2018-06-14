@@ -24,6 +24,7 @@
 - [Extra Long Factorials](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/extraLongFactorials.js)
 - [Grading Students](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js)
 - [Kangaroo](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/kangaroo.js)
+- [Left Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/leftRotation.js)
 - [Mini Max Sum](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js)
 - [Plus Minus](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/plus-minus.js)
 - [Staircase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js)
