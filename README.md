@@ -27,6 +27,7 @@
 - [Left Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/leftRotation.js)
 - [Mini Max Sum](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js)
 - [Plus Minus](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/plus-minus.js)
+- [Save The Prisoner](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/saveThePrisoner.js)
 - [Staircase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js)
 - [The Birthday Bar](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/the-birthday-bar.js)
 - [Time Conversion](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js)
