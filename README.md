@@ -32,3 +32,4 @@
 - [The Birthday Bar](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/the-birthday-bar.js)
 - [Time Conversion](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js)
 - [New Year Chaos](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/newYearChaos.js)
+- [Sherlock and the Valid String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js)
