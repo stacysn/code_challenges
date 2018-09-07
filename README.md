@@ -35,4 +35,5 @@
 - [Sherlock and the Valid String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js)
 - [Migratory Birds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/migratory-birds.js)
 - [Angry Professor](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js)
+- [Sock Merchant](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sock-merchant.js)
 
