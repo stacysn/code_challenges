@@ -39,5 +39,6 @@
 - [Hurdle Race](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/hurdle-race.js)
 - [Bon Appetit](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js)
 - [Electronics Shop](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js)
+- [Utopian Tree](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js)
 
 
