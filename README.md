@@ -41,5 +41,6 @@
 - [Electronics Shop](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js)
 - [Utopian Tree](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js)
 - [Beautiful Days](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/beautiful-days.js)
+- [Strange Advertising](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js)
 
 
