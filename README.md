@@ -43,5 +43,6 @@
 - [Beautiful Days](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/beautiful-days.js)
 - [Strange Advertising](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js)
 - [Drawing Book](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/drawing-book.js)
+- [Jumping on the Clouds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/jumping-on-clouds.js)
 
 
