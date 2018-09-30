@@ -45,6 +45,7 @@
 - [Drawing Book](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/drawing-book.js)
 - [Jumping on the Clouds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/jumping-on-clouds.js)
 - [Find Digits](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/find-digits.js)
+- [Equality in Arrays](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/equality-in-arrays.js)
 
 
 
