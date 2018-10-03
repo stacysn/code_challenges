@@ -48,6 +48,7 @@
 - [Equality in Arrays](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/equality-in-arrays.js)
 - [Cut the Sticks](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/cut-the-sticks.js)
 - [Repeated String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/repeated-string.js)
+- [Minimum Distances](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/minimum-distances.js)
 
 
 
