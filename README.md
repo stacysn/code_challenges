@@ -49,6 +49,7 @@
 - [Cut the Sticks](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/cut-the-sticks.js)
 - [Repeated String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/repeated-string.js)
 - [Minimum Distances](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/minimum-distances.js)
+- [Halloween Sale](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/halloween-sale.js)
 
 
 
