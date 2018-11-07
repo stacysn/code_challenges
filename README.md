@@ -52,6 +52,7 @@
 - [Halloween Sale](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/halloween-sale.js)
 - [Service Lane](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/service-lane.js)
 - [Mark and Toys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js)
+- [Encryption](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js)
 
 
 
