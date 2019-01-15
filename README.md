@@ -1,7 +1,7 @@
 # Code Challenge Solutions
 
 <p align="center">
-	<a href="https://www.hackerrank.com/ryanfehr18"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
+	<a href="https://www.hackerrank.com"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
 </p>
 
 <p align="center">
@@ -10,11 +10,15 @@
 
 ## Solutions are written in Javascript
 
-- [Between Two Sets](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/BetweenTwoSets.js)
-- [Divisible Sum Pair](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/DivisibleSumPairs.js)
-- [Birthday Cake Candles](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/birthday-cake-candles.js)
-- [Breaking Best and Worst Records](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js)
-- [Cat and Mouse](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js)
+| Algorithm Title | HackerRank Prompt | Level | Solution |
+|  :--- | :--- | :--- | :--- |
+| Angry Professor | https://www.hackerrank.com/challenges/angry-professor/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js |
+| Between Two Sets | https://www.hackerrank.com/challenges/between-two-sets/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/BetweenTwoSets.js |
+| Birthday Cake Candles | https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/birthday-cake-candles.js |
+| Bon Appetit | https://www.hackerrank.com/challenges/bon-appetit/problem | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js |
+| Breaking Best and Worst Records | https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js |
+| Cat and Mouse | https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js |
+| Divisible Sum Pair | https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/DivisibleSumPairs.js |
 - [Circular Array Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/circularArrayRotation.js)
 - [Compare the Triplets](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
 - [Counting Valleys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js)
@@ -34,10 +38,8 @@
 - [New Year Chaos](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/newYearChaos.js)
 - [Sherlock and the Valid String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js)
 - [Migratory Birds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/migratory-birds.js)
-- [Angry Professor](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js)
 - [Sock Merchant](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sock-merchant.js)
 - [Hurdle Race](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/hurdle-race.js)
-- [Bon Appetit](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js)
 - [Electronics Shop](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js)
 - [Utopian Tree](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js)
 - [Beautiful Days](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/beautiful-days.js)
@@ -54,6 +56,3 @@
 - [Mark and Toys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js)
 - [Encryption](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js)
 - [Camelcase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/camelcase.js)
-
-
-
