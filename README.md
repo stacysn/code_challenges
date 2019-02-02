@@ -1,24 +1,29 @@
 # Code Challenge Solutions
 
-<p align="center">
+<p align="left">
 	<a href="https://www.hackerrank.com"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
 </p>
 
+<p align="right">
+    <a href="http://www.leetcode.com"><img
+    src="https://cdn-images-1.medium.com/max/1600/1*gBkMCGTAdSk4tu17SCa7RQ.png"></a>
+</p>
+
 <p align="center">
-    Solutions to problems on HackerRank.
+    Solutions to problems on HackerRank and Leetcode.
 </p>
 
 ## Solutions are written in Javascript
 
-| Algorithm Title | HackerRank Prompt | Level | Solution |
+| Algorithm | Prompt Source | Level | Solution |
 |  :--- | :--- | :--- | :--- |
-| Angry Professor | https://www.hackerrank.com/challenges/angry-professor/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js |
-| Between Two Sets | https://www.hackerrank.com/challenges/between-two-sets/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/BetweenTwoSets.js |
-| Birthday Cake Candles | https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/birthday-cake-candles.js |
-| Bon Appetit | https://www.hackerrank.com/challenges/bon-appetit/problem | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js |
-| Breaking Best and Worst Records | https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js |
-| Cat and Mouse | https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js |
-| Divisible Sum Pair | https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem?h_r=internal-search | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/DivisibleSumPairs.js |
+| Angry Professor | [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js) |
+| Between Two Sets | [HackerRank](https://www.hackerrank.com/challenges/between-two-sets/problem?h_r=internal-search) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/BetweenTwoSets.js |
+| Birthday Cake Candles | [HackerRank](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=internal-search) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/birthday-cake-candles.js |
+| Bon Appetit | [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js |
+| Breaking Best and Worst Records | [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js |
+| Cat and Mouse | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js |
+| Divisible Sum Pair | [HackerRank](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem?h_r=internal-search) | Easy | https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/DivisibleSumPairs.js |
 - [Circular Array Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/circularArrayRotation.js)
 - [Compare the Triplets](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
 - [Counting Valleys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js)
@@ -56,3 +61,5 @@
 - [Mark and Toys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js)
 - [Encryption](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js)
 - [Camelcase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/camelcase.js)
+
+
