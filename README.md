@@ -20,48 +20,48 @@
 | Algorithm | Prompt Source | Level | Solution |
 |  :--- | :--- | :--- | :--- |
 | Angry Professor | [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/angryProfessor.js) |
+| Beautiful Days at the Movies| [HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/beautiful-days.js) | 
 | Between Two Sets | [HackerRank](https://www.hackerrank.com/challenges/between-two-sets/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/BetweenTwoSets.js) |
 | Birthday Cake Candles | [HackerRank](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/birthday-cake-candles.js) |
 | Bon Appetit | [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/bon-appetit.js) |
+| Birthday Bar | HackerRank | | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/the-birthday-bar.js) | 
 | Breaking Best and Worst Records | [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js) |
-| Cat and Mouse | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js) |
+| Camel Case | [HackerRank](https://www.hackerrank.com/challenges/camelcase/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/camelcase.js) |
+| Cats and a Mouse | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js) |
 | Circular Array Rotation | [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/circularArrayRotation.js) |
-| Compare the Triplets | [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
+| Compare the Triplets | [HackerRank](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
 | Counting Valleys | [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js) | 
-| Day of the Programmer| [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/day-of-the-programmer.js) | 
-| Designer PDF Viewer | [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/designer_PDF_viewer.js) |
-| Diagonal Difference | [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/diagonalDifference.js) |
+| Cut the Sticks | [HackerRank](https://www.hackerrank.com/challenges/cut-the-sticks/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/cut-the-sticks.js) |
+| Day of the Programmer| [HackerRank](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/day-of-the-programmer.js) | 
+| Designer PDF Viewer | [HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/designer_PDF_viewer.js) |
+| Diagonal Difference | [HackerRank](https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/diagonalDifference.js) |
 | Divisible Sum Pair | [HackerRank](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/DivisibleSumPairs.js) |
-- [Extra Long Factorials](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/extraLongFactorials.js)
-- [Grading Students](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js)
-- [Kangaroo](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/kangaroo.js)
-- [Left Rotation](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/leftRotation.js)
-- [Mini Max Sum](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js)
-- [Plus Minus](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/plus-minus.js)
-- [Save The Prisoner](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/saveThePrisoner.js)
-- [Staircase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js)
-- [The Birthday Bar](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/the-birthday-bar.js)
-- [Time Conversion](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js)
-- [New Year Chaos](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/newYearChaos.js)
-- [Sherlock and the Valid String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js)
-- [Migratory Birds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/migratory-birds.js)
-- [Sock Merchant](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sock-merchant.js)
-- [Hurdle Race](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/hurdle-race.js)
-- [Electronics Shop](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js)
-- [Utopian Tree](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js)
-- [Beautiful Days](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/beautiful-days.js)
-- [Strange Advertising](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js)
-- [Drawing Book](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/drawing-book.js)
-- [Jumping on the Clouds](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/jumping-on-clouds.js)
-- [Find Digits](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/find-digits.js)
+| Drawing Book | [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/drawing-book.js) |
+| Encryption | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js) | 
+| Electronics Shop | [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js) |
 - [Equality in Arrays](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/equality-in-arrays.js)
-- [Cut the Sticks](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/cut-the-sticks.js)
-- [Repeated String](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/repeated-string.js)
-- [Minimum Distances](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/minimum-distances.js)
-- [Halloween Sale](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/halloween-sale.js)
-- [Service Lane](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/service-lane.js)
-- [Mark and Toys](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js)
-- [Encryption](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js)
-- [Camelcase](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/camelcase.js)
+| Extra Long Factorials | [HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/extraLongFactorials.js) |
+| Find Digits | [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/find-digits.js) |
+| Grading Students | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js) |
+| Halloween Sale | [HackerRank](https://www.hackerrank.com/challenges/halloween-sale/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/halloween-sale.js) | 
+| Hurdle Race | [HackerRank](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/hurdle-race.js) |
+| Jumping on the Clouds | [HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/jumping-on-clouds.js) |
+| Kangaroo | [HackerRank](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/kangaroo.js) |
+| Left Rotation | [HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/leftRotation.js) |
+| Mark and Toys | [HackerRank](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js) |
+| Migratory Birds | [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/migratory-birds.js) |
+| Mini Max Sum | [HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js) |
+| Minimum Distances | [HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/minimum-distances.js) |
+| New Year Chaos | [HackerRank](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/newYearChaos.js) |
+| Plus Minus | [HackerRank](https://www.hackerrank.com/challenges/plus-minus/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/plus-minus.js) |
+| Repeated String | [HackerRank](https://www.hackerrank.com/challenges/repeated-string/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/repeated-string.js) |
+| Save The Prisoner | [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/saveThePrisoner.js) |
+| Service Lane | [HackerRank](https://www.hackerrank.com/challenges/service-lane/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/service-lane.js) |
+| Sherlock and the Valid String | [HackerRank](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_r=internal-search) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js) |
+| Sock Merchant | [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sock-merchant.js) |
+| Staircase | [HackerRank](https://www.hackerrank.com/challenges/staircase/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js) |
+- [Strange Advertising](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js)
+| Time Conversion | [HackerRank](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js) |
+| Utopian Tree | [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js) |
 
 
