@@ -39,7 +39,7 @@
 | Drawing Book | [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/drawing-book.js) |
 | Encryption | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/encryption.js) | 
 | Electronics Shop | [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/electronics-shop.js) |
-- [Equality in Arrays](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/equality-in-arrays.js)
+| Equality in Arrays | [HackerRank]() | | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/equality-in-arrays.js) |
 | Extra Long Factorials | [HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/extraLongFactorials.js) |
 | Find Digits | [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/find-digits.js) |
 | Grading Students | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/grading-students.js) |
@@ -60,7 +60,7 @@
 | Sherlock and the Valid String | [HackerRank](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_r=internal-search) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sherlockAndTheValidString.js) |
 | Sock Merchant | [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/sock-merchant.js) |
 | Staircase | [HackerRank](https://www.hackerrank.com/challenges/staircase/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js) |
-- [Strange Advertising](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js)
+| Strange Advertising | [HackerRank]() | | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js) |
 | Time Conversion | [HackerRank](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js) |
 | Utopian Tree | [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js) |
 
