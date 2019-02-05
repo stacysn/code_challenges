@@ -1,4 +1,4 @@
-function solve(n, s, d, m) {
+const solve = (n, s, d, m) => {
   let count = 0;
 
   if (s.length === 1 && s[0] === d) {
