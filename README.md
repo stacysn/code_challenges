@@ -48,7 +48,7 @@
 | Jumping on the Clouds | [HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/jumping-on-clouds.js) |
 | Kangaroo | [HackerRank](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/kangaroo.js) |
 | Left Rotation | [HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/leftRotation.js) |
-| Longest  Substring Without Repeating Characters | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [solution] ()
+| Longest Substring Without Repeating Characters | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [solution](https://github.com/stacysn/code_challenges/blob/master/LeetCode-Javascript/longestSub.js) |
 | Mark and Toys | [HackerRank](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mark-and-toys.js) |
 | Migratory Birds | [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/migratory-birds.js) |
 | Mini Max Sum | [HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js) |
@@ -63,7 +63,7 @@
 | Staircase | [HackerRank](https://www.hackerrank.com/challenges/staircase/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/staircase.js) |
 | Strange Advertising | [HackerRank]() | | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/strange-advertising.js) |
 | Time Conversion | [HackerRank](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js) |
-| Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [solution]()
+| Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/LeetCode-Javascript/twoSum.js) |
 | Utopian Tree | [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js) |
 
 
