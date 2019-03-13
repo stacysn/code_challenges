@@ -28,6 +28,7 @@
 | Breaking Best and Worst Records | [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/breaking-best-and-worst-records.js) |
 | Camel Case | [HackerRank](https://www.hackerrank.com/challenges/camelcase/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/camelcase.js) |
 | Cats and a Mouse | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/catAndMouse.js) |
+| Container with Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | [solution]() |
 | Circular Array Rotation | [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/circularArrayRotation.js) |
 | Compare the Triplets | [HackerRank](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/compareTheTriplets.js)
 | Counting Valleys | [HackerRank]() | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/countingValleys.js) | 
@@ -56,6 +57,7 @@
 | Mini Max Sum | [HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/mini-max-sum.js) |
 | Minimum Distances | [HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/minimum-distances.js) |
 | New Year Chaos | [HackerRank](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/newYearChaos.js) |
+| Palindrome Number | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | [solution]() |
 | Plus Minus | [HackerRank](https://www.hackerrank.com/challenges/plus-minus/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/plus-minus.js) |
 | Repeated String | [HackerRank](https://www.hackerrank.com/challenges/repeated-string/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/repeated-string.js) |
 | Save The Prisoner | [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/saveThePrisoner.js) |
