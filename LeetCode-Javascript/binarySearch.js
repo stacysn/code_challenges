@@ -1,37 +1,50 @@
 /*
-  Given a sorted (in ascending order) integer array nums of n elements and a 
-  target value, write a function to search target in nums. If target exists, 
-  then return its index, otherwise return -1.
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 
-  Example 1:
+(i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
 
-  Input: nums = [-1,0,3,5,9,12], target = 9
-  Output: 4
-  Explanation: 9 exists in nums and its index is 4
+You are given a target value to search. If found in the array return its index, otherwise return -1.
 
-  Example 2:
+You may assume no duplicate exists in the array.
 
-  Input: nums = [-1,0,3,5,9,12], target = 2
-  Output: -1
-  Explanation: 2 does not exist in nums so return -1
+Your algorithm's runtime complexity must be in the order of O(log n).
+
+Example 1:
+
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+Example 2:
+
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
 
  */
 
-
 var search = function(nums, target) {
-  let floor = 0
-  let ceiling = nums.length - 1
-  
-  while (floor <= ceiling) {
-    
-  let guess = Math.floor((floor + ceiling) / 2);
-    if (nums[guess] < target) {
-      floor = guess + 1;
-    } else if (nums[guess] > target) {
-      ceiling = guess - 1;
-    } else {      
-      return guess;
+  let low = 0;
+  let high = nums.length;
+  while (low < high) {
+    let mid = Math.floor((low + high) / 2);
+    if (nums[mid] === target) {
+      return mid;
+    } else if (nums[mid] > nums[low]) {
+      if (nums[low] <= target && nums[mid] > target) {
+        high = mid;
+      } else {
+        // add 1 to mid to not have a repeat check
+        low = mid + 1;
+      }
+    } else {
+      // Use nums[low] > target instead of nums[high] <= target to avoid overflow
+      if (nums[low] > target && nums[mid] < target) {
+        low = mid + 1;
+      } else {
+        high = mid;
+      }
     }
   }
   return -1;
-}; 
+};
+
+
+console.log(search([4,5,6,7,0,1,2], 0))
