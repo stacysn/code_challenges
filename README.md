@@ -70,5 +70,5 @@
 | Time Conversion | [HackerRank](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/time-conversion.js) |
 | Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/LeetCode-Javascript/twoSum.js) |
 | Utopian Tree | [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=internal-search) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/utopian-tree.js) |
-
+| Viral Advertising | [HackerRank](https://www.hackerrank.com/challenges/strange-advertising/problem) | Easy | [solution](https://github.com/stacysn/code_challenges/blob/master/HackerRank-Javascript/viral-advertising.js) |
 
